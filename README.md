@@ -1,5 +1,9 @@
 # Assume
 
+## Disclaimer
+
+I've developed this tool together with my valued colleagues in my time at Breuninger.
+
 ## Example Config
 
 This config goes to `$HOME/.assume.yml`
